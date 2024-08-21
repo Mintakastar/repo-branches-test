@@ -24,9 +24,7 @@ package org.hibernate.annotations;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
-
 import jakarta.persistence.DiscriminatorType;
-
 import static java.lang.annotation.ElementType.ANNOTATION_TYPE;
 import static java.lang.annotation.ElementType.FIELD;
 import static java.lang.annotation.ElementType.METHOD;
